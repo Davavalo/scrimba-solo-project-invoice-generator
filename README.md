@@ -1,7 +1,7 @@
 # Invoice Generator - Solo Project 3 at Scrimba
 
 From Scrimba's Frontend Developer Career Path.<br />
-Figma Design file: https://www.figma.com/file/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator?node-id=0%3A1
+Figma Design file: https://www.figma.com/file/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator?node-id=0%3A1 <br />
 Live Project Link: https://davavalo.github.io/scrimba-solo-project-invoice-generator/
 
 Requirements:
